@@ -9,7 +9,6 @@ Planet interiors, live — a single self-contained page:
   implementation ladder (Python → CUDA)
 - **Planet lab** — design a material ρ(P) = ρ₀ + c·Pⁿ and watch its planets, plus a
   GPU-precomputed map of every material's biggest planet
-- **Quiz** — self-testing
 
 Everything runs in the browser; no dependencies, no server. Built as interactive
 preparation for a PhD interview (University of Bern, July 2026).
